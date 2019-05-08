@@ -28,3 +28,6 @@ git.properties
 
 #IDEA Project Files
 .idea/
+
+*.xml
+*.iml
